@@ -1,0 +1,97 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto Thin", sans-serif;
+    font-size: 20px;
+}
+
+header {
+    color: white;
+    background-color: #808080;
+    height: 120px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.logo {
+    color: #808080;
+    background-color: white;
+    padding: 20px 50px;
+}
+
+a {
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: #808080;
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+aside {
+    background-color: #EEEEEE;
+    position: relative;
+    height: 923px;
+    width: 300px;
+    left: 25px;
+    top: 20px;
+    padding-top: 450px;
+}
+
+.side {
+    text-align: center;
+    color: #808080;
+}
+
+section {
+    background-color: #EEEEEE;
+    padding: 20px;
+    margin-bottom: 20px;
+    position: relative;
+    width: 1150px;
+    left: 345px;
+    top: -903px;
+}
+
+.sec {
+    color: #808080;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+article {
+    background-color: #C6C6C6;
+    display: inline-block;
+    height: 720px;
+    width: 360px;
+    margin: 3px;
+    padding-top: 350px;
+}
+
+.art {
+    color: #808080;
+    text-align: center;
+    vertical-align: middle;
+}
+
+footer {
+    background-color: #808080;
+    height: 50px;
+    padding-top: 15px;
+    position: relative;
+    bottom: 900px;
+}
+
+.foot {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
